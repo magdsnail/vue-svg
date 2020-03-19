@@ -1,5 +1,9 @@
 # vue-svg
 
+## src/icons 下面放svg图标 
+* 可以到  [icon-font](https://www.iconfont.cn/) 找到自己心爱的图表
+* 使用方式 如 src/views/Svg.vue
+
 ## Project setup
 ```
 yarn install
